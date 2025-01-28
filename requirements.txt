@@ -1,9 +1,4 @@
-# Other packages
-Flask==3.0.3
-Flask-Cors==5.0.0
-# Remove or comment out the problematic package
-# requirements.txt
-pywin32
+
 absl-py==2.1.0
 annotated-types==0.7.0
 anyio==4.6.0
